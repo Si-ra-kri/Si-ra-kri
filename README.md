@@ -16,7 +16,7 @@ Hi, I’m Sivaramakrishnan 👋  <br><br>I’m a second-year undergraduate passi
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Si-ra-kri&theme=dark&hide_border=false" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Si-ra-kri&theme=dark&hide_border=false" alt="GitHub Streak" />
 </p>
 
 ---
