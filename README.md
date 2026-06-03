@@ -11,8 +11,8 @@ Hi, I’m Sivaramakrishnan 👋  <br><br>I’m a second-year undergraduate passi
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Si-ra-kri&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="Sivaramakrishnan's GitHub Stats" height="175" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Si-ra-kri&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="175" />
+  <img src="https://github-readme-stats.shion.dev/api?username=Si-ra-kri&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="Sivaramakrishnan's GitHub Stats" height="175" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Si-ra-kri&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="175" />
 </p>
 
 <p align="center">
